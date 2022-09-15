@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+.Saved/
+.Content/Paks/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -72,3 +75,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+WindowsNoEditor/MagicAdventure/Saved/
+WindowsNoEditor/MagicAdventure/Content/Paks
